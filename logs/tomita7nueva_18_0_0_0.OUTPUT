@@ -1,0 +1,882 @@
+ > Problema: tomita7nueva
+ > Args:
+   - Hidden size: 18
+   - Noise level: 0.0
+   - Regu L1: 0.0
+   - Shock: 0.0
+data INPUT has 50001 characters, 3 unique.
+data OUTPUT has 50001 characters, 2 unique.
+Función de activación: TANH
+ > Entrenando...
+ >> iter 0, loss: 27.455169
+   Number of active neurons: 0
+ >> iter 1000, loss: 15.937068
+ >> iter 2000, loss: 7.461188
+ >> iter 3000, loss: 2.774154
+ >> iter 4000, loss: 1.028623
+ >> iter 5000, loss: 0.383824
+ >> iter 6000, loss: 0.144992
+ >> iter 7000, loss: 0.056485
+ >> iter 8000, loss: 0.023232
+ >> iter 9000, loss: 0.010732
+ >> iter 10000, loss: 0.005737
+   Number of active neurons: 18
+ >> iter 11000, loss: 0.003772
+ >> iter 12000, loss: 0.002788
+ >> iter 13000, loss: 0.002358
+ >> iter 14000, loss: 0.002015
+ >> iter 15000, loss: 0.001850
+ >> iter 16000, loss: 0.001650
+ >> iter 17000, loss: 0.001555
+ >> iter 18000, loss: 0.001410
+ >> iter 19000, loss: 0.001345
+ >> iter 20000, loss: 0.001231
+   Number of active neurons: 18
+ >> iter 21000, loss: 0.001185
+ >> iter 22000, loss: 0.001092
+ >> iter 23000, loss: 0.001058
+ ----------- DONE -----------
+
+ > Ejecucion 0:
+   - Train: 0.0
+   - Test - Long: 0.0
+   - Test - Big: 0.0
+   - Test - A: 6.30624625025
+   - Test - B: 0.0
+data INPUT has 50001 characters, 3 unique.
+data OUTPUT has 50001 characters, 2 unique.
+Función de activación: TANH
+ > Entrenando...
+ >> iter 0, loss: 27.455169
+   Number of active neurons: 0
+ >> iter 1000, loss: 16.079741
+ >> iter 2000, loss: 8.142854
+ >> iter 3000, loss: 3.084964
+ >> iter 4000, loss: 1.207039
+ >> iter 5000, loss: 0.450079
+ >> iter 6000, loss: 0.169407
+ >> iter 7000, loss: 0.146896
+ >> iter 8000, loss: 0.058447
+ >> iter 9000, loss: 0.024773
+ >> iter 10000, loss: 0.011529
+   Number of active neurons: 18
+ >> iter 11000, loss: 0.006316
+ >> iter 12000, loss: 0.003995
+ >> iter 13000, loss: 0.002993
+ >> iter 14000, loss: 0.002380
+ >> iter 15000, loss: 0.002082
+ >> iter 16000, loss: 0.001802
+ >> iter 17000, loss: 0.001660
+ >> iter 18000, loss: 0.001482
+ >> iter 19000, loss: 0.001395
+ >> iter 20000, loss: 0.001265
+   Number of active neurons: 18
+ >> iter 21000, loss: 0.001208
+ >> iter 22000, loss: 0.001106
+ >> iter 23000, loss: 0.001064
+ ----------- DONE -----------
+
+ > Ejecucion 1:
+   - Train: 0.0
+   - Test - Long: 0.0
+   - Test - Big: 0.0
+   - Test - A: 0.0
+   - Test - B: 0.0
+data INPUT has 50001 characters, 3 unique.
+data OUTPUT has 50001 characters, 2 unique.
+Función de activación: TANH
+ > Entrenando...
+ >> iter 0, loss: 27.455176
+   Number of active neurons: 0
+ >> iter 1000, loss: 16.689140
+ >> iter 2000, loss: 8.003068
+ >> iter 3000, loss: 3.007299
+ >> iter 4000, loss: 1.140190
+ >> iter 5000, loss: 0.425285
+ >> iter 6000, loss: 0.160308
+ >> iter 7000, loss: 0.062378
+ >> iter 8000, loss: 0.025710
+ >> iter 9000, loss: 0.011673
+ >> iter 10000, loss: 0.006085
+   Number of active neurons: 18
+ >> iter 11000, loss: 0.003845
+ >> iter 12000, loss: 0.002772
+ >> iter 13000, loss: 0.002284
+ >> iter 14000, loss: 0.001934
+ >> iter 15000, loss: 0.001753
+ >> iter 16000, loss: 0.001559
+ >> iter 17000, loss: 0.001458
+ >> iter 18000, loss: 0.001321
+ >> iter 19000, loss: 0.001253
+ >> iter 20000, loss: 0.001148
+   Number of active neurons: 18
+ >> iter 21000, loss: 0.001099
+ >> iter 22000, loss: 0.001014
+ ----------- DONE -----------
+
+ > Ejecucion 2:
+   - Train: 0.0
+   - Test - Long: 0.0
+   - Test - Big: 0.0
+   - Test - A: 0.0
+   - Test - B: 0.0
+data INPUT has 50001 characters, 3 unique.
+data OUTPUT has 50001 characters, 2 unique.
+Función de activación: TANH
+ > Entrenando...
+ >> iter 0, loss: 27.455174
+   Number of active neurons: 0
+ >> iter 1000, loss: 18.140028
+ >> iter 2000, loss: 10.091084
+ >> iter 3000, loss: 4.147556
+ >> iter 4000, loss: 1.590977
+ >> iter 5000, loss: 0.593626
+ >> iter 6000, loss: 0.364687
+ >> iter 7000, loss: 0.194746
+ >> iter 8000, loss: 0.076734
+ >> iter 9000, loss: 0.031841
+ >> iter 10000, loss: 0.014334
+   Number of active neurons: 18
+ >> iter 11000, loss: 0.007498
+ >> iter 12000, loss: 0.004538
+ >> iter 13000, loss: 0.003277
+ >> iter 14000, loss: 0.002551
+ >> iter 15000, loss: 0.002195
+ >> iter 16000, loss: 0.001887
+ >> iter 17000, loss: 0.001725
+ >> iter 18000, loss: 0.001537
+ >> iter 19000, loss: 0.001437
+ >> iter 20000, loss: 0.001302
+   Number of active neurons: 18
+ >> iter 21000, loss: 0.001235
+ >> iter 22000, loss: 0.001130
+ >> iter 23000, loss: 0.001081
+ ----------- DONE -----------
+
+ > Ejecucion 3:
+   - Train: 0.0
+   - Test - Long: 0.01999900005
+   - Test - Big: 0.0119998800012
+   - Test - A: 3.36644223718
+   - Test - B: 20.7186187587
+data INPUT has 50001 characters, 3 unique.
+data OUTPUT has 50001 characters, 2 unique.
+Función de activación: TANH
+ > Entrenando...
+ >> iter 0, loss: 27.455177
+   Number of active neurons: 0
+ >> iter 1000, loss: 15.906596
+ >> iter 2000, loss: 7.350813
+ >> iter 3000, loss: 2.734718
+ >> iter 4000, loss: 1.151987
+ >> iter 5000, loss: 0.436896
+ >> iter 6000, loss: 0.167661
+ >> iter 7000, loss: 0.067215
+ >> iter 8000, loss: 0.028665
+ >> iter 9000, loss: 0.014123
+ >> iter 10000, loss: 0.008026
+   Number of active neurons: 18
+ >> iter 11000, loss: 0.005590
+ >> iter 12000, loss: 0.004147
+ >> iter 13000, loss: 0.003551
+ >> iter 14000, loss: 0.002978
+ >> iter 15000, loss: 0.002747
+ >> iter 16000, loss: 0.002402
+ >> iter 17000, loss: 0.002280
+ >> iter 18000, loss: 0.002033
+ >> iter 19000, loss: 0.001957
+ >> iter 20000, loss: 0.001765
+   Number of active neurons: 18
+ >> iter 21000, loss: 0.001716
+ >> iter 22000, loss: 0.001559
+ >> iter 23000, loss: 0.001526
+ >> iter 24000, loss: 0.001394
+ >> iter 25000, loss: 0.001371
+ >> iter 26000, loss: 0.001259
+ >> iter 27000, loss: 0.001243
+ >> iter 28000, loss: 0.001147
+ >> iter 29000, loss: 0.001136
+ >> iter 30000, loss: 0.001052
+   Number of active neurons: 18
+ >> iter 31000, loss: 0.001045
+ ----------- DONE -----------
+
+ > Ejecucion 4:
+   - Train: 0.0
+   - Test - Long: 0.0
+   - Test - Big: 0.00199998000021
+   - Test - A: 0.0
+   - Test - B: 0.0
+data INPUT has 50001 characters, 3 unique.
+data OUTPUT has 50001 characters, 2 unique.
+Función de activación: TANH
+ > Entrenando...
+ >> iter 0, loss: 27.455167
+   Number of active neurons: 0
+ >> iter 1000, loss: 16.213665
+ >> iter 2000, loss: 6.924058
+ >> iter 3000, loss: 2.683596
+ >> iter 4000, loss: 1.008628
+ >> iter 5000, loss: 0.381451
+ >> iter 6000, loss: 0.147091
+ >> iter 7000, loss: 0.060299
+ >> iter 8000, loss: 0.026472
+ >> iter 9000, loss: 0.099820
+ >> iter 10000, loss: 0.042395
+   Number of active neurons: 18
+ >> iter 11000, loss: 0.019712
+ >> iter 12000, loss: 0.010442
+ >> iter 13000, loss: 0.006667
+ >> iter 14000, loss: 0.004813
+ >> iter 15000, loss: 0.003965
+ >> iter 16000, loss: 0.003349
+ >> iter 17000, loss: 0.003036
+ >> iter 18000, loss: 0.002702
+ >> iter 19000, loss: 0.002530
+ >> iter 20000, loss: 0.002296
+   Number of active neurons: 18
+ >> iter 21000, loss: 0.002186
+ >> iter 22000, loss: 0.002005
+ >> iter 23000, loss: 0.001928
+ >> iter 24000, loss: 0.001781
+ >> iter 25000, loss: 0.001727
+ >> iter 26000, loss: 0.001604
+ >> iter 27000, loss: 0.001562
+ >> iter 28000, loss: 0.001458
+ >> iter 29000, loss: 0.001427
+ >> iter 30000, loss: 0.001337
+   Number of active neurons: 18
+ >> iter 31000, loss: 0.001313
+ >> iter 32000, loss: 0.001234
+ >> iter 33000, loss: 0.001215
+ >> iter 34000, loss: 0.001146
+ >> iter 35000, loss: 0.001131
+ >> iter 36000, loss: 0.001069
+ >> iter 37000, loss: 0.001058
+ ----------- DONE -----------
+
+ > Ejecucion 5:
+   - Train: 0.0
+   - Test - Long: 0.0049997500125
+   - Test - Big: 0.0
+   - Test - A: 6.41957202853
+   - Test - B: 0.0
+data INPUT has 50001 characters, 3 unique.
+data OUTPUT has 50001 characters, 2 unique.
+Función de activación: TANH
+ > Entrenando...
+ >> iter 0, loss: 27.455174
+   Number of active neurons: 0
+ >> iter 1000, loss: 15.866996
+ >> iter 2000, loss: 7.718046
+ >> iter 3000, loss: 2.893064
+ >> iter 4000, loss: 1.075596
+ >> iter 5000, loss: 0.402666
+ >> iter 6000, loss: 0.236430
+ >> iter 7000, loss: 0.094242
+ >> iter 8000, loss: 0.039346
+ >> iter 9000, loss: 0.018005
+ >> iter 10000, loss: 0.009393
+   Number of active neurons: 18
+ >> iter 11000, loss: 0.005797
+ >> iter 12000, loss: 0.004080
+ >> iter 13000, loss: 0.003232
+ >> iter 14000, loss: 0.002677
+ >> iter 15000, loss: 0.002347
+ >> iter 16000, loss: 0.002058
+ >> iter 17000, loss: 0.001875
+ >> iter 18000, loss: 0.001684
+ >> iter 19000, loss: 0.001565
+ >> iter 20000, loss: 0.001426
+   Number of active neurons: 18
+ >> iter 21000, loss: 0.001345
+ >> iter 22000, loss: 0.001237
+ >> iter 23000, loss: 0.001178
+ >> iter 24000, loss: 0.001094
+ >> iter 25000, loss: 0.001050
+ ----------- DONE -----------
+
+ > Ejecucion 6:
+   - Train: 0.0
+   - Test - Long: 0.0
+   - Test - Big: 0.0
+   - Test - A: 19.8120125325
+   - Test - B: 14.6723551763
+data INPUT has 50001 characters, 3 unique.
+data OUTPUT has 50001 characters, 2 unique.
+Función de activación: TANH
+ > Entrenando...
+ >> iter 0, loss: 27.455177
+   Number of active neurons: 0
+ >> iter 1000, loss: 17.389426
+ >> iter 2000, loss: 10.094202
+ >> iter 3000, loss: 4.697178
+ >> iter 4000, loss: 1.751626
+ >> iter 5000, loss: 0.655358
+ >> iter 6000, loss: 0.247394
+ >> iter 7000, loss: 0.109813
+ >> iter 8000, loss: 0.044763
+ >> iter 9000, loss: 0.252217
+ >> iter 10000, loss: 0.104107
+   Number of active neurons: 18
+ >> iter 11000, loss: 0.043363
+ >> iter 12000, loss: 0.019419
+ >> iter 13000, loss: 0.009922
+ >> iter 14000, loss: 0.005880
+ >> iter 15000, loss: 0.004108
+ >> iter 16000, loss: 0.003160
+ >> iter 17000, loss: 0.002659
+ >> iter 18000, loss: 0.002288
+ >> iter 19000, loss: 0.002058
+ >> iter 20000, loss: 0.001845
+   Number of active neurons: 18
+ >> iter 21000, loss: 0.001708
+ >> iter 22000, loss: 0.001561
+ >> iter 23000, loss: 0.001467
+ >> iter 24000, loss: 0.001357
+ >> iter 25000, loss: 0.001289
+ >> iter 26000, loss: 0.001201
+ >> iter 27000, loss: 0.001149
+ >> iter 28000, loss: 0.001078
+ >> iter 29000, loss: 0.001037
+ ----------- DONE -----------
+
+ > Ejecucion 7:
+   - Train: 0.0
+   - Test - Long: 0.0
+   - Test - Big: 0.0
+   - Test - A: 0.0
+   - Test - B: 0.0
+data INPUT has 50001 characters, 3 unique.
+data OUTPUT has 50001 characters, 2 unique.
+Función de activación: TANH
+ > Entrenando...
+ >> iter 0, loss: 27.455174
+   Number of active neurons: 0
+ >> iter 1000, loss: 17.756787
+ >> iter 2000, loss: 8.634450
+ >> iter 3000, loss: 3.292580
+ >> iter 4000, loss: 1.225357
+ >> iter 5000, loss: 0.458197
+ >> iter 6000, loss: 0.173569
+ >> iter 7000, loss: 0.067877
+ >> iter 8000, loss: 0.028106
+ >> iter 9000, loss: 0.013086
+ >> iter 10000, loss: 0.007077
+   Number of active neurons: 18
+ >> iter 11000, loss: 0.004676
+ >> iter 12000, loss: 0.003484
+ >> iter 13000, loss: 0.002941
+ >> iter 14000, loss: 0.002521
+ >> iter 15000, loss: 0.002307
+ >> iter 16000, loss: 0.002062
+ >> iter 17000, loss: 0.001937
+ >> iter 18000, loss: 0.001761
+ >> iter 19000, loss: 0.001674
+ >> iter 20000, loss: 0.001540
+   Number of active neurons: 18
+ >> iter 21000, loss: 0.001476
+ >> iter 22000, loss: 0.001367
+ >> iter 23000, loss: 0.001318
+ >> iter 24000, loss: 0.001228
+ >> iter 25000, loss: 0.001190
+ >> iter 26000, loss: 0.001114
+ >> iter 27000, loss: 0.001083
+ >> iter 28000, loss: 0.001018
+ ----------- DONE -----------
+
+ > Ejecucion 8:
+   - Train: 0.0
+   - Test - Long: 0.0
+   - Test - Big: 0.0
+   - Test - A: 0.0
+   - Test - B: 0.0
+data INPUT has 50001 characters, 3 unique.
+data OUTPUT has 50001 characters, 2 unique.
+Función de activación: TANH
+ > Entrenando...
+ >> iter 0, loss: 27.455171
+   Number of active neurons: 0
+ >> iter 1000, loss: 16.282778
+ >> iter 2000, loss: 7.337857
+ >> iter 3000, loss: 2.729714
+ >> iter 4000, loss: 1.012850
+ >> iter 5000, loss: 0.378230
+ >> iter 6000, loss: 0.143132
+ >> iter 7000, loss: 0.056032
+ >> iter 8000, loss: 0.023257
+ >> iter 9000, loss: 0.010946
+ >> iter 10000, loss: 0.005986
+   Number of active neurons: 17
+ >> iter 11000, loss: 0.004042
+ >> iter 12000, loss: 0.003038
+ >> iter 13000, loss: 0.002608
+ >> iter 14000, loss: 0.002240
+ >> iter 15000, loss: 0.002074
+ >> iter 16000, loss: 0.001852
+ >> iter 17000, loss: 0.001757
+ >> iter 18000, loss: 0.001593
+ >> iter 19000, loss: 0.001528
+ >> iter 20000, loss: 0.001399
+   Number of active neurons: 18
+ >> iter 21000, loss: 0.001353
+ >> iter 22000, loss: 0.001247
+ >> iter 23000, loss: 0.001213
+ >> iter 24000, loss: 0.001123
+ >> iter 25000, loss: 0.001099
+ >> iter 26000, loss: 0.001022
+ ----------- DONE -----------
+
+ > Ejecucion 9:
+   - Train: 0.0
+   - Test - Long: 0.0
+   - Test - Big: 0.0
+   - Test - A: 0.0
+   - Test - B: 6.73955069662
+data INPUT has 50001 characters, 3 unique.
+data OUTPUT has 50001 characters, 2 unique.
+Función de activación: TANH
+ > Entrenando...
+ >> iter 0, loss: 27.455173
+   Number of active neurons: 0
+ >> iter 1000, loss: 16.663939
+ >> iter 2000, loss: 8.367096
+ >> iter 3000, loss: 3.113797
+ >> iter 4000, loss: 1.155003
+ >> iter 5000, loss: 0.453312
+ >> iter 6000, loss: 0.172291
+ >> iter 7000, loss: 0.067340
+ >> iter 8000, loss: 0.027796
+ >> iter 9000, loss: 0.012810
+ >> iter 10000, loss: 0.006849
+   Number of active neurons: 18
+ >> iter 11000, loss: 0.004456
+ >> iter 12000, loss: 0.003306
+ >> iter 13000, loss: 0.002766
+ >> iter 14000, loss: 0.002376
+ >> iter 15000, loss: 0.002165
+ >> iter 16000, loss: 0.001946
+ >> iter 17000, loss: 0.001822
+ >> iter 18000, loss: 0.001666
+ >> iter 19000, loss: 0.001580
+ >> iter 20000, loss: 0.001459
+   Number of active neurons: 18
+ >> iter 21000, loss: 0.001398
+ >> iter 22000, loss: 0.001298
+ >> iter 23000, loss: 0.001252
+ >> iter 24000, loss: 0.001170
+ >> iter 25000, loss: 0.001134
+ >> iter 26000, loss: 0.001064
+ >> iter 27000, loss: 0.001036
+ ----------- DONE -----------
+
+ > Ejecucion 10:
+   - Train: 0.0
+   - Test - Long: 0.0
+   - Test - Big: 0.0
+   - Test - A: 0.0
+   - Test - B: 0.0
+data INPUT has 50001 characters, 3 unique.
+data OUTPUT has 50001 characters, 2 unique.
+Función de activación: TANH
+ > Entrenando...
+ >> iter 0, loss: 27.455169
+   Number of active neurons: 0
+ >> iter 1000, loss: 17.231831
+ >> iter 2000, loss: 8.474120
+ >> iter 3000, loss: 3.291997
+ >> iter 4000, loss: 1.223111
+ >> iter 5000, loss: 0.457116
+ >> iter 6000, loss: 0.172913
+ >> iter 7000, loss: 0.067506
+ >> iter 8000, loss: 0.027810
+ >> iter 9000, loss: 0.012885
+ >> iter 10000, loss: 0.006890
+   Number of active neurons: 18
+ >> iter 11000, loss: 0.004538
+ >> iter 12000, loss: 0.003345
+ >> iter 13000, loss: 0.002833
+ >> iter 14000, loss: 0.002413
+ >> iter 15000, loss: 0.002220
+ >> iter 16000, loss: 0.001973
+ >> iter 17000, loss: 0.001866
+ >> iter 18000, loss: 0.001686
+ >> iter 19000, loss: 0.001615
+ >> iter 20000, loss: 0.001474
+   Number of active neurons: 18
+ >> iter 21000, loss: 0.001425
+ >> iter 22000, loss: 0.001309
+ >> iter 23000, loss: 0.001274
+ >> iter 24000, loss: 0.001177
+ >> iter 25000, loss: 0.001152
+ >> iter 26000, loss: 0.001068
+ >> iter 27000, loss: 0.001049
+ ----------- DONE -----------
+
+ > Ejecucion 11:
+   - Train: 0.0
+   - Test - Long: 0.0
+   - Test - Big: 0.0
+   - Test - A: 0.0
+   - Test - B: 0.0
+data INPUT has 50001 characters, 3 unique.
+data OUTPUT has 50001 characters, 2 unique.
+Función de activación: TANH
+ > Entrenando...
+ >> iter 0, loss: 27.455174
+   Number of active neurons: 0
+ >> iter 1000, loss: 16.131676
+ >> iter 2000, loss: 7.354467
+ >> iter 3000, loss: 2.807954
+ >> iter 4000, loss: 1.049354
+ >> iter 5000, loss: 0.395279
+ >> iter 6000, loss: 0.151463
+ >> iter 7000, loss: 0.060617
+ >> iter 8000, loss: 0.025921
+ >> iter 9000, loss: 0.012674
+ >> iter 10000, loss: 0.007184
+   Number of active neurons: 18
+ >> iter 11000, loss: 0.004856
+ >> iter 12000, loss: 0.003684
+ >> iter 13000, loss: 0.003118
+ >> iter 14000, loss: 0.002664
+ >> iter 15000, loss: 0.002416
+ >> iter 16000, loss: 0.002164
+ >> iter 17000, loss: 0.002020
+ >> iter 18000, loss: 0.001829
+ >> iter 19000, loss: 0.001731
+ >> iter 20000, loss: 0.001586
+   Number of active neurons: 18
+ >> iter 21000, loss: 0.001517
+ >> iter 22000, loss: 0.001400
+ >> iter 23000, loss: 0.001347
+ >> iter 24000, loss: 0.001252
+ >> iter 25000, loss: 0.001211
+ >> iter 26000, loss: 0.001131
+ >> iter 27000, loss: 0.001098
+ >> iter 28000, loss: 0.001031
+ ----------- DONE -----------
+
+ > Ejecucion 12:
+   - Train: 0.0
+   - Test - Long: 0.0
+   - Test - Big: 0.0
+   - Test - A: 0.0
+   - Test - B: 16.5255649623
+data INPUT has 50001 characters, 3 unique.
+data OUTPUT has 50001 characters, 2 unique.
+Función de activación: TANH
+ > Entrenando...
+ >> iter 0, loss: 27.455173
+   Number of active neurons: 0
+ >> iter 1000, loss: 17.524053
+ >> iter 2000, loss: 9.859884
+ >> iter 3000, loss: 3.845622
+ >> iter 4000, loss: 1.424145
+ >> iter 5000, loss: 0.529640
+ >> iter 6000, loss: 0.198775
+ >> iter 7000, loss: 0.076288
+ >> iter 8000, loss: 0.030541
+ >> iter 9000, loss: 0.013393
+ >> iter 10000, loss: 0.006714
+   Number of active neurons: 18
+ >> iter 11000, loss: 0.004095
+ >> iter 12000, loss: 0.002898
+ >> iter 13000, loss: 0.002363
+ >> iter 14000, loss: 0.002004
+ >> iter 15000, loss: 0.001815
+ >> iter 16000, loss: 0.001623
+ >> iter 17000, loss: 0.001517
+ >> iter 18000, loss: 0.001383
+ >> iter 19000, loss: 0.001309
+ >> iter 20000, loss: 0.001206
+   Number of active neurons: 18
+ >> iter 21000, loss: 0.001152
+ >> iter 22000, loss: 0.001069
+ >> iter 23000, loss: 0.001028
+ ----------- DONE -----------
+
+ > Ejecucion 13:
+   - Train: 0.0
+   - Test - Long: 0.0
+   - Test - Big: 0.0
+   - Test - A: 0.0
+   - Test - B: 0.0
+data INPUT has 50001 characters, 3 unique.
+data OUTPUT has 50001 characters, 2 unique.
+Función de activación: TANH
+ > Entrenando...
+ >> iter 0, loss: 27.455173
+   Number of active neurons: 0
+ >> iter 1000, loss: 17.070743
+ >> iter 2000, loss: 8.213792
+ >> iter 3000, loss: 3.245244
+ >> iter 4000, loss: 1.209550
+ >> iter 5000, loss: 0.452908
+ >> iter 6000, loss: 0.171840
+ >> iter 7000, loss: 0.067316
+ >> iter 8000, loss: 0.027958
+ >> iter 9000, loss: 0.013055
+ >> iter 10000, loss: 0.007092
+   Number of active neurons: 18
+ >> iter 11000, loss: 0.004693
+ >> iter 12000, loss: 0.003506
+ >> iter 13000, loss: 0.002956
+ >> iter 14000, loss: 0.002540
+ >> iter 15000, loss: 0.002320
+ >> iter 16000, loss: 0.002079
+ >> iter 17000, loss: 0.001951
+ >> iter 18000, loss: 0.001777
+ >> iter 19000, loss: 0.001688
+ >> iter 20000, loss: 0.001553
+   Number of active neurons: 18
+ >> iter 21000, loss: 0.001490
+ >> iter 22000, loss: 0.001380
+ >> iter 23000, loss: 0.001332
+ >> iter 24000, loss: 0.001241
+ >> iter 25000, loss: 0.001204
+ >> iter 26000, loss: 0.001127
+ >> iter 27000, loss: 0.001097
+ >> iter 28000, loss: 0.001031
+ >> iter 29000, loss: 0.001008
+ ----------- DONE -----------
+
+ > Ejecucion 14:
+   - Train: 0.0
+   - Test - Long: 0.0
+   - Test - Big: 0.0
+   - Test - A: 0.0
+   - Test - B: 18.0654623025
+data INPUT has 50001 characters, 3 unique.
+data OUTPUT has 50001 characters, 2 unique.
+Función de activación: TANH
+ > Entrenando...
+ >> iter 0, loss: 27.455172
+   Number of active neurons: 0
+ >> iter 1000, loss: 15.947491
+ >> iter 2000, loss: 7.962995
+ >> iter 3000, loss: 2.985800
+ >> iter 4000, loss: 1.110938
+ >> iter 5000, loss: 0.416994
+ >> iter 6000, loss: 0.158994
+ >> iter 7000, loss: 0.063174
+ >> iter 8000, loss: 0.026787
+ >> iter 9000, loss: 0.013058
+ >> iter 10000, loss: 0.007363
+   Number of active neurons: 18
+ >> iter 11000, loss: 0.005120
+ >> iter 12000, loss: 0.003869
+ >> iter 13000, loss: 0.003340
+ >> iter 14000, loss: 0.002847
+ >> iter 15000, loss: 0.002630
+ >> iter 16000, loss: 0.002325
+ >> iter 17000, loss: 0.002199
+ >> iter 18000, loss: 0.001975
+ >> iter 19000, loss: 0.001890
+ >> iter 20000, loss: 0.001715
+   Number of active neurons: 18
+ >> iter 21000, loss: 0.001655
+ >> iter 22000, loss: 0.001513
+ >> iter 23000, loss: 0.001469
+ >> iter 24000, loss: 0.001351
+ >> iter 25000, loss: 0.001319
+ >> iter 26000, loss: 0.001218
+ >> iter 27000, loss: 0.001193
+ >> iter 28000, loss: 0.001108
+ >> iter 29000, loss: 0.001089
+ >> iter 30000, loss: 0.001014
+   Number of active neurons: 18
+ ----------- DONE -----------
+
+ > Ejecucion 15:
+   - Train: 0.0
+   - Test - Long: 0.0
+   - Test - Big: 0.0
+   - Test - A: 0.0
+   - Test - B: 14.1790547297
+data INPUT has 50001 characters, 3 unique.
+data OUTPUT has 50001 characters, 2 unique.
+Función de activación: TANH
+ > Entrenando...
+ >> iter 0, loss: 27.455172
+   Number of active neurons: 0
+ >> iter 1000, loss: 15.885365
+ >> iter 2000, loss: 7.394952
+ >> iter 3000, loss: 2.744315
+ >> iter 4000, loss: 1.021577
+ >> iter 5000, loss: 0.397131
+ >> iter 6000, loss: 0.151290
+ >> iter 7000, loss: 0.135849
+ >> iter 8000, loss: 0.054975
+ >> iter 9000, loss: 0.023203
+ >> iter 10000, loss: 0.010745
+   Number of active neurons: 18
+ >> iter 11000, loss: 0.005907
+ >> iter 12000, loss: 0.003761
+ >> iter 13000, loss: 0.024110
+ >> iter 14000, loss: 0.011011
+ >> iter 15000, loss: 0.005767
+ >> iter 16000, loss: 0.003496
+ >> iter 17000, loss: 0.002526
+ >> iter 18000, loss: 0.001996
+ >> iter 19000, loss: 0.001733
+ >> iter 20000, loss: 0.001525
+   Number of active neurons: 18
+ >> iter 21000, loss: 0.001411
+ >> iter 22000, loss: 0.001287
+ >> iter 23000, loss: 0.001218
+ >> iter 24000, loss: 0.001129
+ >> iter 25000, loss: 0.001080
+ >> iter 26000, loss: 0.001012
+ ----------- DONE -----------
+
+ > Ejecucion 16:
+   - Train: 0.0
+   - Test - Long: 0.009999500025
+   - Test - Big: 0.0029999700003
+   - Test - A: 5.7729484701
+   - Test - B: 0.0
+data INPUT has 50001 characters, 3 unique.
+data OUTPUT has 50001 characters, 2 unique.
+Función de activación: TANH
+ > Entrenando...
+ >> iter 0, loss: 27.455175
+   Number of active neurons: 0
+ >> iter 1000, loss: 16.341496
+ >> iter 2000, loss: 7.194885
+ >> iter 3000, loss: 2.683765
+ >> iter 4000, loss: 1.002621
+ >> iter 5000, loss: 0.378997
+ >> iter 6000, loss: 0.146478
+ >> iter 7000, loss: 0.059631
+ >> iter 8000, loss: 0.026395
+ >> iter 9000, loss: 0.013614
+ >> iter 10000, loss: 0.008201
+   Number of active neurons: 18
+ >> iter 11000, loss: 0.005932
+ >> iter 12000, loss: 0.004642
+ >> iter 13000, loss: 0.004012
+ >> iter 14000, loss: 0.003461
+ >> iter 15000, loss: 0.003167
+ >> iter 16000, loss: 0.002821
+ >> iter 17000, loss: 0.002639
+ >> iter 18000, loss: 0.002385
+ >> iter 19000, loss: 0.002259
+ >> iter 20000, loss: 0.002061
+   Number of active neurons: 18
+ >> iter 21000, loss: 0.001972
+ >> iter 22000, loss: 0.001811
+ >> iter 23000, loss: 0.001745
+ >> iter 24000, loss: 0.001611
+ >> iter 25000, loss: 0.001563
+ >> iter 26000, loss: 0.001448
+ >> iter 27000, loss: 0.001410
+ >> iter 28000, loss: 0.001312
+ >> iter 29000, loss: 0.001284
+ >> iter 30000, loss: 0.001197
+   Number of active neurons: 18
+ >> iter 31000, loss: 0.001176
+ >> iter 32000, loss: 0.001100
+ >> iter 33000, loss: 0.001083
+ >> iter 34000, loss: 0.001016
+ ----------- DONE -----------
+
+ > Ejecucion 17:
+   - Train: 0.0
+   - Test - Long: 0.0
+   - Test - Big: 0.0
+   - Test - A: 0.0
+   - Test - B: 0.0
+data INPUT has 50001 characters, 3 unique.
+data OUTPUT has 50001 characters, 2 unique.
+Función de activación: TANH
+ > Entrenando...
+ >> iter 0, loss: 27.455178
+   Number of active neurons: 0
+ >> iter 1000, loss: 15.821323
+ >> iter 2000, loss: 7.781455
+ >> iter 3000, loss: 2.937959
+ >> iter 4000, loss: 1.093057
+ >> iter 5000, loss: 0.410077
+ >> iter 6000, loss: 0.156387
+ >> iter 7000, loss: 0.062041
+ >> iter 8000, loss: 0.026341
+ >> iter 9000, loss: 0.012783
+ >> iter 10000, loss: 0.007247
+   Number of active neurons: 18
+ >> iter 11000, loss: 0.004999
+ >> iter 12000, loss: 0.003820
+ >> iter 13000, loss: 0.003265
+ >> iter 14000, loss: 0.002817
+ >> iter 15000, loss: 0.002577
+ >> iter 16000, loss: 0.002306
+ >> iter 17000, loss: 0.002162
+ >> iter 18000, loss: 0.001966
+ >> iter 19000, loss: 0.001864
+ >> iter 20000, loss: 0.001713
+   Number of active neurons: 18
+ >> iter 21000, loss: 0.001639
+ >> iter 22000, loss: 0.001516
+ >> iter 23000, loss: 0.001459
+ >> iter 24000, loss: 0.001359
+ >> iter 25000, loss: 0.001315
+ >> iter 26000, loss: 0.001230
+ >> iter 27000, loss: 0.001194
+ >> iter 28000, loss: 0.001121
+ >> iter 29000, loss: 0.001093
+ >> iter 30000, loss: 0.001030
+   Number of active neurons: 18
+ ----------- DONE -----------
+
+ > Ejecucion 18:
+   - Train: 0.0
+   - Test - Long: 0.0
+   - Test - Big: 0.00199998000021
+   - Test - A: 0.0
+   - Test - B: 11.9658689421
+data INPUT has 50001 characters, 3 unique.
+data OUTPUT has 50001 characters, 2 unique.
+Función de activación: TANH
+ > Entrenando...
+ >> iter 0, loss: 27.455176
+   Number of active neurons: 0
+ >> iter 1000, loss: 16.172755
+ >> iter 2000, loss: 7.934125
+ >> iter 3000, loss: 2.994558
+ >> iter 4000, loss: 1.111715
+ >> iter 5000, loss: 0.415347
+ >> iter 6000, loss: 0.157242
+ >> iter 7000, loss: 0.061441
+ >> iter 8000, loss: 0.025452
+ >> iter 9000, loss: 0.011830
+ >> iter 10000, loss: 0.006423
+   Number of active neurons: 18
+ >> iter 11000, loss: 0.004227
+ >> iter 12000, loss: 0.003170
+ >> iter 13000, loss: 0.002655
+ >> iter 14000, loss: 0.002295
+ >> iter 15000, loss: 0.002080
+ >> iter 16000, loss: 0.001874
+ >> iter 17000, loss: 0.001743
+ >> iter 18000, loss: 0.001597
+ >> iter 19000, loss: 0.001503
+ >> iter 20000, loss: 0.001391
+   Number of active neurons: 18
+ >> iter 21000, loss: 0.001321
+ >> iter 22000, loss: 0.001231
+ >> iter 23000, loss: 0.001177
+ >> iter 24000, loss: 0.001102
+ >> iter 25000, loss: 0.001060
+ ----------- DONE -----------
+
+ > Ejecucion 19:
+   - Train: 0.0
+   - Test - Long: 0.0
+   - Test - Big: 0.0
+   - Test - A: 5.22631824545
+   - Test - B: 13.3591093927
+
+ > Terminadas 20 ejecuciones...
+
+---------------------------------------- TERMINADO OK ----------------------------------------
+
